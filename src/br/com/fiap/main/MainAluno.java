@@ -1,8 +1,3 @@
-//Ruan Luca Feliciano de Carvalho     RM: 562218
-//Felipe Conte Ferreira               RM: 562248
-//Rafael Malaguti                     RM: 561830
-//Lincon Roncato                      RM: 565944
-
 package br.com.fiap.main;
 
 import br.com.fiap.bean.Aluno;
